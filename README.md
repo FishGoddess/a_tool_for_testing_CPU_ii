@@ -1,7 +1,7 @@
 # a_tool_for_testing_CPU_ii
 ## after writing an easy tool to test CPU, I complete it into a "look-like-high-level" version... so this guy was borned!
 
-但是，我觉得单线程的完成时间实在太慢。。。而且有些机器比较老的，CPU 性能相对较弱，完成整个测试需要花费相当多的时间.
+*但是，我觉得单线程的完成时间实在太慢。。。而且有些机器比较老的，CPU 性能相对较弱，完成整个测试需要花费相当多的时间.*
 
 所以，我在 2017 年的 2 月份又重新写了一个测试器。。。就是这个东西。。。
 
@@ -13,7 +13,7 @@
 
 
 
-Because that, its time is too long in some old CPUs, I have to write another software... 
+*Because that, its time is too long in some old CPUs, I have to write another software... *
 
 That is it!
 

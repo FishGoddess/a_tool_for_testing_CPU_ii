@@ -12,7 +12,7 @@
 比如散热较差、CPU 会降频的笔记本，由于他的测试时间较短，所以很可能会导致在这类机子上测试结果偏高。
 
 
-
+<br/>
 *Because that, its time is too long in some old CPUs, I have to write another software... *
 
 That is it!
